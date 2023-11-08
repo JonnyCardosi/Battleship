@@ -1,2 +1,2 @@
 # Battleship
-A simple version of the classic Battleship game.
+A simple Java version of the classic Battleship game 
